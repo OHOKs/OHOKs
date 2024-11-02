@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Patrik! 👋
 
-<!--
-**OHOKs/OHOKs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **High School Student** and a passionate developer working primarily with desktop application technologies and backend development. I love building things, learning new skills, and diving into the world of tech in my free time! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+
+- **Languages:** C#, JavaScript
+- **Frameworks & Libraries:** .NET Framework, Express, Vue.js
+- **CSS Frameworks:** Tailwind CSS
+- **Tools & Technologies:** Git, Node.js, RESTful APIs
+
+---
+
+### 🌐 Socials
+
+- [Discord](validss)
+- [Instagram](@patrakblue)
+
+Feel free to connect with me on any of these platforms!
+
+---
+
+I hope you found what you were searching for! 🌟
