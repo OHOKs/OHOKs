@@ -15,8 +15,8 @@ I'm a **High School Student** and a passionate developer working primarily with 
 
 ### 🌐 Socials
 
-- [Discord](validss)
-- [Instagram](@patrakblue)
+- Discord: validss
+- Instagram: @patrakblue
 
 Feel free to connect with me on any of these platforms!
 
