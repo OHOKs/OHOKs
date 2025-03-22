@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and React** on the frontend, and **NestJS and Express** on the backend. I've worked on numerous projects, which you can explore in my organization linked below. Feel free to reach out via **email or Discord**—my contact details are provided! 
+I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and React** on the frontend, and **NestJS and Express** on the backend. I've worked on numerous projects, which you can explore in my **organization (Valid-Hub)** linked below. Feel free to reach out via **email or Discord**—my contact details are provided! 
 
 # Technologies
 **Frontend**
@@ -22,16 +22,16 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 ## Statistics
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OHOKs&show_icons=true&theme=dark" alt="GitHub Stats" width="52.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHOKs&layout=compact&theme=dark" alt="Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OHOKs&show_icons=true&theme=dark" alt="GitHub Stats" width="56.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHOKs&layout=compact&theme=dark" alt="Top Languages" width="43%">
 </div>
 
 ## Contant & Links
 
 **Contact**
 - ✉️ Email: janipatrik138@gmail.com
-- 🎮 Discord: validss
+- 🎮 Discord: valid
 
 **Links**
-- 🌐 [Portfolio](https://example.com)
-- 📂 [GitHub Organization](https://github.com/Valid-Hub)
+- 🌐 Website: [Portfolio](https://example.com)
+- 🏢 Organization: [Valid-Hub](https://github.com/Valid-Hub)
