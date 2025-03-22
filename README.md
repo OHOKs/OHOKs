@@ -1,25 +1,37 @@
-# Hi there, I'm Patrik! 👋
+![header](./header.png)
 
-I'm a **High School Student** and a passionate developer working primarily with desktop application technologies and backend development. I love building things, learning new skills, and diving into the world of tech in my free time! 🚀
+# About Me
 
----
+I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and React** on the frontend, and **NestJS and Express** on the backend. I've worked on numerous projects, which you can explore in my organization linked below. Feel free to reach out via **email or Discord**—my contact details are provided! 
 
-### 🛠 Skills
+# Technologies
+**Frontend**
+- 🌐 Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
-- **Languages:** C#, JavaScript
-- **Frameworks & Libraries:** .NET Framework, Express, Vue.js
-- **CSS Frameworks:** Tailwind CSS
-- **Tools & Technologies:** Git, Node.js, RESTful APIs
+**Backend**
+- 🛠 Languages: JavaScript (Node.js), TypeScript, C#
+- 🔥 Frameworks & Tools: NestJS, Express.js, .NET Framework
+- 🗄 Databases: MySQL, PostgreSQL, MongoDB
 
----
+**Other Tools & Technologies**
+- 🎛 Version Control: Git, GitHub
+- 🐳 DevOps & Deployment: Docker, Portainer, Cloudflare
+- 🔍 Testing: NUnit, Jest
 
-### 🌐 Socials
+## Statistics
 
-- Discord: validss
-- Instagram: @patrakblue
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=OHOKs&show_icons=true&theme=dark" alt="GitHub Stats" width="52.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHOKs&layout=compact&theme=dark" alt="Top Languages" width="40%">
+</div>
 
-Feel free to connect with me on any of these platforms!
+## Contant & Links
 
----
+**Contact**
+- ✉️ Email: janipatrik138@gmail.com
+- 🎮 Discord: validss
 
-I hope you found what you were searching for! 🌟
+**Links**
+- 🌐 [Portfolio](https://example.com)
+- 📂 [GitHub Organization](https://github.com/Valid-Hub)
