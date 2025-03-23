@@ -22,8 +22,8 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 ## Statistics
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OHOKs&show_icons=true&theme=dark" alt="GitHub Stats" width="56.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHOKs&layout=compact&theme=dark" alt="Top Languages" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api?username=OHOKs&show_icons=true&theme=dark" alt="GitHub Stats" width="53%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OHOKs&layout=compact&theme=dark" alt="Top Languages" width="40%">
 </div>
 
 ## Contant & Links
