@@ -34,4 +34,4 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 
 **Links**
 - 🌐 Website: [Portfolio](https://example.com)
-- 🏢 Organization: [Valid-Hub](https://github.com/Valid-Hub)
+- 🏢 Github Organization: [Valid-Hub](https://github.com/Valid-Hub)
