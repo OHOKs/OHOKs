@@ -10,9 +10,9 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 - ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
 **Backend**
-- 🛠 Languages: JavaScript (Node.js), TypeScript, C#
+- 🛠 Languages: JavaScript, TypeScript, C#
 - 🔥 Frameworks & Tools: NestJS, Express.js, .NET Framework
-- 🗄 Databases: MySQL, PostgreSQL, MongoDB
+- 🗄 Databases: MySQL, PostgreSQL
 
 **Other Tools & Technologies**
 - 🎛 Version Control: Git, GitHub
