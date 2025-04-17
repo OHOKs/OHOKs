@@ -26,5 +26,5 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 - 🎮 Discord: valid
 
 **Links**
-- 🌐 Website: [Portfolio](https://example.com) (under development/deployment)
+- 🌐 Website: [Portfolio](https://example.com) (under development)
 - 🏢 Github Organization: [Valid-Hub](https://github.com/Valid-Hub)
