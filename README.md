@@ -6,7 +6,7 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 
 # Technologies
 **Frontend**
-- 🌐 Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- 🌐 Languages: JavaScript, TypeScript, HTML5, CSS3, SASS
 - ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
 **Backend**
