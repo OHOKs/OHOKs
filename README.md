@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and React** on the frontend, and **NestJS and Express** on the backend. I've worked on numerous projects, which you can explore in my **organization (Valid-Hub)** linked below. Feel free to reach out via **email or Discord**—my contact details are provided! 
+I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and React** on the frontend, and **NestJS and Express** on the backend. Feel free to reach out via **email or Discord**—my contact details are provided! 
 
 # Technologies
 **Frontend**
@@ -10,21 +10,12 @@ I'm **Jani Patrik**, a **Full-Stack** developer specializing in **Vue.js and Rea
 - ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
 **Backend**
-- 🛠 Languages: JavaScript, TypeScript, C#
-- 🔥 Frameworks & Tools: NestJS, Express.js, .NET Framework
+- 🛠 Languages: JavaScript, TypeScript
+- 🔥 Frameworks & Tools: NestJS, Express.js
 - 🗄 Databases: MySQL, PostgreSQL
-
-**Other Tools & Technologies**
-- 🎛 Version Control: Git, GitHub
-- 🐳 DevOps & Deployment: Docker, Portainer, Cloudflare
-- 🔍 Testing: NUnit, Jest
 
 ## Contant & Links
 
 **Contact**
 - ✉️ Email: janipatrik138@gmail.com
-- 🎮 Discord: valid
-
-**Links**
-- 🌐 Website: [Portfolio](https://janipatrik.com)
-- 🏢 Github Organization: [Valid-Hub](https://github.com/Valid-Hub)
+- 🎮 Discord: validss
